@@ -1,0 +1,54 @@
+.color-background{
+    background-color: lightslategray;
+    width: auto;
+    height: 400px;
+  }
+
+  .background-center{
+    align-self: auto;
+  }
+  
+  .center{
+    text-align: center;
+    
+  }
+  
+  
+  .font{
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  .font2 {
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    
+  }
+  
+  .font3{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    
+  }
+
+
+  
+  .left-section{
+      width: 465px;
+      display: inline-table;
+       
+  }
+  
+
+  
+  .middle-section{
+      width: 465px;
+      display: inline-table;
+      
+  }
+  
+  .right-section{
+      width: 465px;;
+      display: inline-table;
+  }
